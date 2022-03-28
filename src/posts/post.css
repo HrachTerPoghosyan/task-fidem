@@ -1,0 +1,120 @@
+.container {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.article {
+    display: inline-block;
+    width: 198px;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 100px;
+
+}
+
+.para {
+    vertical-align: after-edge;
+    margin-left: -60px;
+
+}
+
+.line {
+    text-decoration: underline;
+    text-decoration-color: blue;
+    margin-left: -55px;
+
+}
+
+.p1 {
+    position: absolute;
+    width: 5%;
+    top: 134%;
+    left: 13%;
+    color: white;
+    Font-size: 20px;
+    Line-height: 100%;
+}
+
+.p2 {
+    width: 5%;
+    top: 134%;
+    left: 29%;
+    color: white;
+    Font-size: 20px;
+    Line-height: 100%;
+}
+
+.p3 {
+    position: absolute;
+    width: 5%;
+    top: 134%;
+    left: 45%;
+    color: white;
+    Font-size: 18px;
+    Line-height: 100%;
+}
+
+.p4 {
+    width: 5%;
+    top: 134%;
+    left: 61%;
+    color: white;
+    Font-size: 18px;
+    Line-height: 100%;
+
+}
+
+.p5 {
+    position: absolute;
+    width: 5%;
+    top: 134%;
+    left: 77%;
+    color: white;
+    Font-size: 20px;
+    Line-height: 100%;
+
+}
+
+.p6 {
+    width: 5%;
+    top: 164%;
+    left: 30%;
+    color: white;
+    Font-size: 20px;
+    Line-height: 100%;
+}
+
+
+.p7 {
+    width: 5%;
+    top: 165%;
+    left: 45%;
+    color: white;
+    Font-size: 18px;
+    Line-height: 100%;
+}
+
+.p8 {
+    width: 5%;
+    top: 165%;
+    left: 61%;
+    color: white;
+    Font-size: 18px;
+    Line-height: 100%;
+}
+
+.p9 {
+    top: 165%;
+    left: 77%;
+    color: white;
+    Font-size: 18px;
+    Line-height: 100%;
+}
+
+
+
+
+
+
+

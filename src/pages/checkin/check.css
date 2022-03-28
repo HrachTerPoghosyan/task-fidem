@@ -1,0 +1,57 @@
+body {
+    background: #FAFAFA;
+}
+
+.modal {
+    height: 1vh;
+    width: 150vh;
+    position: sticky;
+    top: 0;
+    left: 118px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal_content {
+    padding: 12px;
+    background-color: #FFFFFF;
+    height: 96px;
+    width: 1021px;
+    border-radius: 10px;
+
+}
+
+.post {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+    align-items: center;
+    height: 1vh;
+    top: 0;
+    left: 118px;
+
+}
+
+.myBtn {
+    padding: 15px 35px;
+    color: white;
+    font-size: 12px;
+    background: #090076;
+    border: 1px solid #090076;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+
+.strong {
+    color: #090076;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.div2 {
+    color: #AAAAAB;
+    font-size: 18px;
+    line-height: 21px;
+}
