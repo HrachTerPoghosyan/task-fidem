@@ -29,13 +29,3 @@ export default Footer;
 
 
 
-//
-// <div className="container2">
-//     <hr/>
-//     <div className="row">
-//         <p className="col-sm">
-//             &copy;{new Date().getFullYear()}  All right reserved
-//         </p>
-//     </div>
-// </div>
-
